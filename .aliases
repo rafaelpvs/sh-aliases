@@ -1,0 +1,1 @@
+alias nauthere="nohup nautilus -w . > /dev/null &"
