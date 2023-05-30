@@ -2,3 +2,5 @@
 alias zshconfig="code ~/.zshrc"
 alias j="z"
 
+# Rails
+alias rcon="rails console"
