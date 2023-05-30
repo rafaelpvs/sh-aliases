@@ -3,7 +3,7 @@ alias zshconfig="code ~/.zshrc"
 alias j="z"
 
 # Rails
-alias rcon="rails console"
+alias rcon="spring stop && rails c"
 
 # Terminator
 alias tsscroll="terminator --new-tab -p superscroll"
