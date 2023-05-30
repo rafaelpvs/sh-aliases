@@ -1,1 +1,4 @@
+# ZSH
+alias zshconfig="code ~/.zshrc"
+alias j="z"
 
