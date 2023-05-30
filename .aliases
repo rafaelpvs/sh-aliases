@@ -4,3 +4,6 @@ alias j="z"
 
 # Rails
 alias rcon="rails console"
+
+# Terminator
+alias tsscroll="terminator --new-tab -p superscroll"
